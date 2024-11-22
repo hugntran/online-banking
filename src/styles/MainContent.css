@@ -1,0 +1,10 @@
+/* src/styles/MainContent.css */
+.main-content {
+  margin-left: 0; 
+  padding-left: 100px; 
+  padding-top: 20px; 
+  padding-right: 20px;
+  padding-bottom: 20px;
+  position: relative; 
+  z-index: 1; 
+}
