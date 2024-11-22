@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/online-banking/static/css/main.b18f09db.css",
+    "main.js": "/online-banking/static/js/main.740f5988.js",
+    "static/js/453.eac224b4.chunk.js": "/online-banking/static/js/453.eac224b4.chunk.js",
+    "static/media/ibankinglg.png": "/online-banking/static/media/ibankinglg.bba8479d1f4b0b78634d.png",
+    "index.html": "/online-banking/index.html",
+    "main.b18f09db.css.map": "/online-banking/static/css/main.b18f09db.css.map",
+    "main.740f5988.js.map": "/online-banking/static/js/main.740f5988.js.map",
+    "453.eac224b4.chunk.js.map": "/online-banking/static/js/453.eac224b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18f09db.css",
+    "static/js/main.740f5988.js"
+  ]
+}
